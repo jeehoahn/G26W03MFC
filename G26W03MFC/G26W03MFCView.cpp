@@ -111,7 +111,8 @@ CG26W03MFCDoc* CG26W03MFCView::GetDocument() const // 디버그되지 않은 버
 
 void CG26W03MFCView::OnLButtonDown(UINT nFlags, CPoint point)
 {
-	// TODO: 여기에 메시지 처리기 코드를 추가 및/또는 기본값을 호출합니다.
+	// TODO: 여기에 메시지 처리기 코드를 추가 
+	//및/또는 기본값을 호출합니다.
 	//CClientDC dc(this);
 	//dc.Ellipse(point.x - 30, point.y - 30, point.x + 30, point.y + 30);
 
